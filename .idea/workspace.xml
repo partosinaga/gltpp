@@ -22,143 +22,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Jv.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/controllers/jv/Jv.php">
+      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/template/dashboard.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.025492469">
-              <caret line="418" column="5" selection-start-line="418" selection-start-column="5" selection-end-line="418" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.9490151">
+              <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
               <folding>
-                <marker date="1537411958935" expanded="true" signature="4391:4496" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="4613:5178" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="4660:4799" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="4846:4970" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="5017:5151" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="5221:5441" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="5269:5414" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="5483:6060" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="5530:5663" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="5710:5851" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="5898:6033" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="6102:6573" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="6149:6299" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="6346:6479" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="6655:6993" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="6697:6993" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="7116:7539" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="7149:7509" placeholder="..." />
-                <marker date="1537411958935" expanded="true" signature="9635:9874" placeholder="SELECT MAX( ..gl_header..." />
-                <marker date="1537411958935" expanded="true" signature="14811:15050" placeholder="SELECT MAX( ..gl_header..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="M_jv.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/jv/M_jv.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="118" column="46" selection-start-line="118" selection-start-column="46" selection-end-line="118" selection-end-column="46" />
-              <folding>
-                <marker date="1537411708723" expanded="true" signature="142:216" placeholder="SELECT finan..system_parameter..." />
-                <marker date="1537411708723" expanded="true" signature="252:335" placeholder="SELECT RIGHT..." />
-                <marker date="1537411708723" expanded="true" signature="573:700" placeholder="SELECT LEFT(..." />
-                <marker date="1537411708723" expanded="true" signature="823:976" placeholder="SELECT RIGHT..." />
-                <marker date="1537411708723" expanded="true" signature="1425:1884" placeholder="SELECT jvh.*..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="2016:2081" placeholder="select * fro..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="2210:2402" placeholder="SELECT jv_de..jv_detail..." />
-                <marker date="1537411708723" expanded="true" signature="2537:2738" placeholder="select SUM(j..jv_detail..." />
-                <marker date="1537411708723" expanded="true" signature="2866:3339" placeholder="SELECT jv_he..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="2866:3363" placeholder="SELECT jv_he..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="3503:3611" placeholder="update jv_he..." />
-                <marker date="1537411708723" expanded="true" signature="3823:4036" placeholder="INSERT INTO gl_detail..." />
-                <marker date="1537411708723" expanded="true" signature="3890:4036" placeholder="SELECT '${$g..jv_detail..." />
-                <marker date="1537411708723" expanded="true" signature="4155:4675" placeholder="SELECT jv_he..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="4802:4875" placeholder="update jv_he..." />
-                <marker date="1537411708723" expanded="true" signature="4970:5059" placeholder="update gl_he..." />
-                <marker date="1537411708723" expanded="true" signature="5152:5223" placeholder="update jv_he..." />
-                <marker date="1537411708723" expanded="true" signature="5320:5407" placeholder="update gl_he..." />
-                <marker date="1537411708723" expanded="true" signature="5516:5621" placeholder="update jv_he..." />
-                <marker date="1537411708723" expanded="true" signature="5732:5849" placeholder="update gl_he..." />
-                <marker date="1537411708723" expanded="true" signature="5965:6051" placeholder="update gl_de..." />
-                <marker date="1537411708723" expanded="true" signature="6149:6213" placeholder="select * fro..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="6347:6616" placeholder="SELECT jv_de..jv_detail..." />
-                <marker date="1537411708723" expanded="true" signature="6848:7204" placeholder="update jv_he..." />
-                <marker date="1537411708723" expanded="true" signature="7305:7367" placeholder="delete from ..." />
-                <marker date="1537411708723" expanded="true" signature="7501:7673" placeholder="update gl_he..." />
-                <marker date="1537411708723" expanded="true" signature="7773:7852" placeholder="delete from ..." />
-                <marker date="1537411708723" expanded="true" signature="7952:8060" placeholder="SELECT f_ter..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="8180:8259" placeholder="update jv_he..." />
-                <marker date="1537411708723" expanded="true" signature="8351:8446" placeholder="update gl_he..." />
-                <marker date="1537411708723" expanded="true" signature="8548:8852" placeholder="SELECT jvh.*..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="8548:8891" placeholder="SELECT jvh.*..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="8548:8997" placeholder="SELECT jv_he..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="9137:9647" placeholder="SELECT jv_he..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="9794:10221" placeholder="SELECT jv_he..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="9794:10266" placeholder="SELECT jv_he..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="9794:10331" placeholder="SELECT jv_he..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="10445:10536" placeholder="update jv_he..." />
-                <marker date="1537411708723" expanded="true" signature="10620:10710" placeholder="update jv_he..." />
-                <marker date="1537411708723" expanded="true" signature="10789:10839" placeholder="delete from ..." />
-                <marker date="1537411708723" expanded="true" signature="10918:10967" placeholder="delete from ..." />
-                <marker date="1537411708723" expanded="true" signature="11051:11098" placeholder="SELECT * FRO..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="11206:11275" placeholder="update jv_he..." />
-                <marker date="1537411708723" expanded="true" signature="11375:11439" placeholder="SELECT * FRO..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="11558:11638" placeholder="UPDATE jv_he..." />
-                <marker date="1537411708723" expanded="true" signature="11846:12122" placeholder="SELECT MAX( ..gl_header..." />
-                <marker date="1537411708723" expanded="true" signature="12754:13239" placeholder="INSERT INTO gl_header..." />
-                <marker date="1537411708723" expanded="true" signature="12889:13239" placeholder="SELECT '${$p..jv_header..." />
-                <marker date="1537411708723" expanded="true" signature="13294:13524" placeholder="INSERT INTO gl_detail..." />
-                <marker date="1537411708723" expanded="true" signature="13363:13524" placeholder="SELECT '${$p..jv_detail..." />
-                <marker date="1537411708723" expanded="true" signature="13579:13723" placeholder="UPDATE jv_he..." />
-                <marker date="1537411708723" expanded="true" signature="13922:14007" placeholder="UPDATE jv_he..." />
-                <marker date="1537411708723" expanded="true" signature="14053:14154" placeholder="UPDATE gl_he..." />
-                <marker date="1537411708723" expanded="true" signature="14268:14358" placeholder="SELECT GROUP..jv_tag..." />
-                <marker date="1537411708723" expanded="true" signature="14483:14542" placeholder="DELETE FROM ..." />
-                <marker date="1537411708723" expanded="true" signature="14655:14839" placeholder="INSERT INTO gl_tag..." />
-                <marker date="1537411708723" expanded="true" signature="14692:14839" placeholder="SELECT '${$g..jv_tag..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="posting.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/jv/posting.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="332" selection-end-column="0" />
-              <folding>
-                <marker date="1537409818230" expanded="true" signature="9967:10115" placeholder="..." />
-                <marker date="1537409818230" expanded="true" signature="10502:10728" placeholder="..." />
-                <marker date="1537409818230" expanded="true" signature="10952:11295" placeholder="..." />
-                <marker date="1537409818230" expanded="true" signature="11046:11253" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post_short.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/jv/post_short.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="84" column="145" selection-start-line="84" selection-start-column="145" selection-end-line="84" selection-end-column="145" />
-              <folding>
-                <marker date="1537411239084" expanded="true" signature="9961:10109" placeholder="..." />
-                <marker date="1537411239084" expanded="true" signature="10496:10722" placeholder="..." />
-                <marker date="1537411239084" expanded="true" signature="10946:11289" placeholder="..." />
-                <marker date="1537411239084" expanded="true" signature="11040:11247" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="unposting.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/jv/unposting.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="102" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="102" />
-              <folding>
-                <marker date="1537411943378" expanded="true" signature="10637:10754" placeholder="..." />
-                <marker date="1537411943378" expanded="true" signature="11014:11236" placeholder="..." />
+                <element signature="n#style#0;n#b#0;n#div#2;n#div#0;n#section#1;n#div#0;n#!!top" expanded="true" />
+                <marker date="1537528049078" expanded="true" signature="472:785" placeholder="..." />
+                <marker date="1537528049078" expanded="true" signature="595:766" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -169,7 +41,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/application/controllers/balance_sheet/Balance_sheet.php" />
         <option value="$PROJECT_DIR$/application/views/balance_sheet/v2/breakdown_labaditahanv2.php" />
         <option value="$PROJECT_DIR$/application/models/balance_sheet/M_balance_sheetv2.php" />
         <option value="$PROJECT_DIR$/application/views/balance_sheet/v2/view_bsv2.php" />
@@ -220,6 +91,7 @@
         <option value="$PROJECT_DIR$/application/models/jv/M_jv.php" />
         <option value="$PROJECT_DIR$/application/views/jv/unposting.php" />
         <option value="$PROJECT_DIR$/application/controllers/jv/Jv.php" />
+        <option value="$PROJECT_DIR$/application/views/template/dashboard.php" />
       </list>
     </option>
   </component>
@@ -263,6 +135,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -331,19 +205,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jv" />
+              <option name="myItemId" value="template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../glpba" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gliem" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
@@ -392,10 +264,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="1" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1859375" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1859375" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -430,13 +302,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/models/cash_flow/M_cashflow.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.612904">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/models/cash_flow/M_cfd.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-19.161291">
@@ -546,13 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4078795">
           <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/template/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5806452">
-          <caret line="97" column="5" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -752,22 +610,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/jv/posting.php">
+    <entry file="file://$PROJECT_DIR$/application/controllers/jv/Jv.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="332" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.025492469">
+          <caret line="418" column="5" selection-start-line="418" selection-start-column="5" selection-end-line="418" selection-end-column="5" />
           <folding>
-            <marker date="1537409818230" expanded="true" signature="9967:10115" placeholder="..." />
-            <marker date="1537409818230" expanded="true" signature="10502:10728" placeholder="..." />
-            <marker date="1537409818230" expanded="true" signature="10952:11295" placeholder="..." />
-            <marker date="1537409818230" expanded="true" signature="11046:11253" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="4391:4496" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="4613:5178" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="4660:4799" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="4846:4970" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="5017:5151" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="5221:5441" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="5269:5414" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="5483:6060" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="5530:5663" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="5710:5851" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="5898:6033" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="6102:6573" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="6149:6299" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="6346:6479" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="6655:6993" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="6697:6993" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="7116:7539" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="7149:7509" placeholder="..." />
+            <marker date="1537411958935" expanded="true" signature="9635:9874" placeholder="SELECT MAX( ..gl_header..." />
+            <marker date="1537411958935" expanded="true" signature="14811:15050" placeholder="SELECT MAX( ..gl_header..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/jv/M_jv.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.025492469">
           <caret line="118" column="46" selection-start-line="118" selection-start-column="46" selection-end-line="118" selection-end-column="46" />
           <folding>
             <marker date="1537411708723" expanded="true" signature="142:216" placeholder="SELECT finan..system_parameter..." />
@@ -831,20 +705,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/jv/unposting.php">
+    <entry file="file://$PROJECT_DIR$/application/views/jv/posting.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="102" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="102" />
+        <state vertical-scroll-proportion="0.025492469">
+          <caret line="16" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="332" selection-end-column="0" />
           <folding>
-            <marker date="1537411943378" expanded="true" signature="10637:10754" placeholder="..." />
-            <marker date="1537411943378" expanded="true" signature="11014:11236" placeholder="..." />
+            <marker date="1537409818230" expanded="true" signature="9967:10115" placeholder="..." />
+            <marker date="1537409818230" expanded="true" signature="10502:10728" placeholder="..." />
+            <marker date="1537409818230" expanded="true" signature="10952:11295" placeholder="..." />
+            <marker date="1537409818230" expanded="true" signature="11046:11253" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/jv/post_short.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.025492469">
           <caret line="84" column="145" selection-start-line="84" selection-start-column="145" selection-end-line="84" selection-end-column="145" />
           <folding>
             <marker date="1537411239084" expanded="true" signature="9961:10109" placeholder="..." />
@@ -855,31 +731,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/jv/Jv.php">
+    <entry file="file://$PROJECT_DIR$/application/views/jv/unposting.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.025492469">
-          <caret line="418" column="5" selection-start-line="418" selection-start-column="5" selection-end-line="418" selection-end-column="5" />
+          <caret line="24" column="102" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="102" />
           <folding>
-            <marker date="1537411958935" expanded="true" signature="4391:4496" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="4613:5178" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="4660:4799" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="4846:4970" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="5017:5151" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="5221:5441" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="5269:5414" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="5483:6060" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="5530:5663" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="5710:5851" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="5898:6033" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="6102:6573" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="6149:6299" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="6346:6479" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="6655:6993" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="6697:6993" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="7116:7539" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="7149:7509" placeholder="..." />
-            <marker date="1537411958935" expanded="true" signature="9635:9874" placeholder="SELECT MAX( ..gl_header..." />
-            <marker date="1537411958935" expanded="true" signature="14811:15050" placeholder="SELECT MAX( ..gl_header..." />
+            <marker date="1537411943378" expanded="true" signature="10637:10754" placeholder="..." />
+            <marker date="1537411943378" expanded="true" signature="11014:11236" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/template/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9490151">
+          <caret line="120" column="56" selection-start-line="120" selection-start-column="56" selection-end-line="120" selection-end-column="56" />
+          <folding>
+            <marker date="1537348590610" expanded="true" signature="7405:7435" placeholder="SELECT * FRO..system_parameter..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/template/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9490151">
+          <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#b#0;n#div#2;n#div#0;n#section#1;n#div#0;n#!!top" expanded="true" />
+            <marker date="1537528049078" expanded="true" signature="472:785" placeholder="..." />
+            <marker date="1537528049078" expanded="true" signature="595:766" placeholder="..." />
           </folding>
         </state>
       </provider>

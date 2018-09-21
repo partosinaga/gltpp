@@ -22,42 +22,41 @@
         ?>
         <!-- REMINDER -->
 
-
-        <!--          <div class="portlet mt-element-ribbon light portlet-fit ">-->
-        <!--            <div class="ribbon ribbon-vertical-right ribbon-shadow ribbon-color-primary uppercase">-->
-        <!--              <div class="ribbon-sub ribbon-bookmark"></div>-->
-        <!--              <i class="fa fa-star"></i>-->
-        <!--            </div>-->
-        <!--            <div class="portlet-title">-->
-        <!--              <div class="caption">-->
-        <!--                <i class=" icon-layers font-green"></i>-->
-        <!--                <span class="caption-subject font-green bold uppercase">New Update!</span>-->
-        <!--              </div>-->
-        <!--            </div>-->
-        <!--            <div class="portlet-body">-->
-        <!--              <ul>-->
-        <!--                <li><b>Edit GL DATE & CEK/GIRO NUMBER in AR/AP/JV List</b><br>-->
-        <!--                  <ul>-->
-        <!--                    Edit GL DATE & CEK/GIRO NUMBER sekarang tersedia pada menu AR/AP/JV List.<br>-->
-        <!--                    Semua Voucher yang sudah di posting tidak bisa di edit, silahkan UNPOSTING jika ingin di edit.<br>-->
-        <!--                    Edit CEK/GIRO NUMBER Tekan Tombol yang ada di sebelah kanan setiap List, dan tekan tombol yang sama untuk menyimpan. Edit berhasil apabila sudah mucul <i>Notifikasi</i> 'Cek/Giro Number Saved!'.<br> -->
-        <!--                    -->
-        <!--                  </ul>-->
-        <!--                </li>-->
-        <!--              </ul>-->
-        <!---->
-        <!--              <ul>-->
-        <!--                <li><b>POSTING & UNPOSTING dengan <i>Tick Mark</i></b><br>-->
-        <!--                  <ul>-->
-        <!--                    POSTING & UNPOSTING dalam jumlah lebih dari 1 silahkan ceklis daftar yang akan di posting/unposting. klik <i><b>Select All</b></i> untuk menceklis seluruh voucher. dan tekan tombol <b>POSTING ALL CHECKED</b> untuk posting, dan <b>UNPOST ALL CHECKED</b> untuk unposting-->
-        <!--                    -->
-        <!--                  </ul>-->
-        <!--                </li>-->
-        <!--              </ul><b style="font-size: 10px; color: red" class="pull-right"><i>Hubungi IT TEAM jika perlu bantuan</i></b>-->
-        <!--            </div>-->
-        <!---->
-        <!--          </div>-->
-
+        <div class="portlet mt-element-ribbon light portlet-fit ">
+            <div class="ribbon ribbon-vertical-right ribbon-shadow ribbon-color-primary uppercase">
+                <div class="ribbon-sub ribbon-bookmark"></div>
+                <i class="fa fa-star"></i>
+            </div>
+            <div class="portlet-title">
+                <div class="caption">
+                    <i class=" icon-layers font-green"></i>
+                    <span class="caption-subject font-green bold uppercase">New Update!</span>
+                </div>
+            </div>
+            <div class="portlet-body">
+                <ul>
+                    <li><b>Tag</b><br>
+                        <ul>
+                            Tag bisa dikatakan <i>caption</i> dari setiap voucher yang dibuat.
+                            Tambahkan Tag baru pada menu <code>Master-Tag</code>.<br>
+                            Pada saat menambah voucher pilih Tag pada <i>Tag Dropdown</i>.(bisa lebih dari satu).
+                            <i>"bersifat optional, boleh tidak diisi"</i>.
+                        </ul>
+                    </li>
+                </ul>
+                <ul>
+                    <li><b>Contact</b><br>
+                        <ul>
+                            Contact adalah daftar Kreditor/Debitor. Tambahkan Contact baru pada menu <code>Master-Contact</code>.<br>
+                            Pada saat menambah voucher baru, pilih Contact pada <i>Receive From / Paid To</i>.<br>
+                            <i>"bersifat optional, boleh tidak diisi"</i>.<br>
+                            khusus untuk JV, Contact dapat diisikan dengan ketik manual.
+                        </ul>
+                    </li>
+                </ul>
+                <b style="font-size: 10px; color: red" class="pull-right"><i>Hubungi IT TEAM jika perlu bantuan</i></b>
+            </div>
+        </div>
 
         <div class="panel panel-default">
             <div class="panel-heading"><i class=" fa fa-tag"></i> TOTAL UNPOSTED VOUCHER</div>
